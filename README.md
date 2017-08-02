@@ -2,7 +2,9 @@
 
 基于阿里大于的短信通知服务，使用node.js发送短信通知。
 
-<img src=".github/screenshot.png" width="640">
+<div align="center">
+  <img src=".github/screenshot.png" width="320" alt="效果图">
+</div>
 
 ## 如何运行
 
@@ -20,7 +22,7 @@
   ```
   推荐安装[淘宝npm镜像](https://npm.taobao.org/)，安装成功后使用`cnpm install`安装依赖。
   
-4.**启动程序:**
+3. **启动程序:**
   
   ```
   $ cd demo
